@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_add_activity.xml" value="0.2" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_detail_activity.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_grid_view.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_home_acitivity.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_login_form.xml" value="0.19" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_map.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_password.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_reset.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/activity_update_activity.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/content_navigation_drawer.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/grid_layout.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/recycle_view.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/layout/view_journal_design.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/JourneyJournal/app/src/main/res/menu/home_menu.xml" value="0.22" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_address.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_add_location_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_date_range_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_insert_photo_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_email.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_info_black.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_launcher_foreg.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_lock.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_person.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/ic_person_black.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/round_bg.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/round_border.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/screen.xml" value="0.1" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/drawable/wave.xml" value="0.18504273504273505" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_about.xml" value="0.22" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_add_journey.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_detail_activity.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_detail_journey.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_home_acitivity.xml" value="0.25" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_login.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_login_form.xml" value="0.21" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_password.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_register_actvity.xml" value="0.25" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_reset.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_splash.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/activity_update_journey.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/recycle_view.xml" value="0.1717948717948718" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/layout/view_journal_design.xml" value="0.15833333333333333" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Last year/AMD PROJECT/TravelDiary/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/TravelDiary/app/src/main/res/drawable/ic_baseline_add_location_24.xml" value="0.28615384615384615" />
+        <entry key="..\:/TravelDiary/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.28615384615384615" />
+        <entry key="..\:/TravelDiary/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.28615384615384615" />
+        <entry key="..\:/TravelDiary/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.23544303797468355" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_about.xml" value="0.2111111111111111" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_add_journey.xml" value="0.27447916666666666" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_delete_journey.xml" value="0.27447916666666666" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_detail_journey.xml" value="0.264" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_details.xml" value="0.27447916666666666" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_home_acitivity.xml" value="0.27447916666666666" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_password.xml" value="0.264" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_register_actvity.xml" value="0.27447916666666666" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_reset.xml" value="0.2282051282051282" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_splash.xml" value="0.22521367521367522" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/activity_update_journey.xml" value="0.27447916666666666" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/practice.xml" value="0.23114035087719298" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/recycle_view.xml" value="0.2222222222222222" />
+        <entry key="..\:/TravelDiary/app/src/main/res/layout/view_journal_design.xml" value="0.2222222222222222" />
+        <entry key="..\:/TravelDiary/app/src/main/res/menu/home_menu.xml" value="0.22521367521367522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

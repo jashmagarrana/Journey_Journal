@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/form"
+    android:background="@mipmap/back2"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/loginlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="Update Journey Journal"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:background="@color/blue"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/about"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:hint="Title"
+            android:layout_below="@id/title"
+            android:textSize="25sp"
+            android:inputType="text" />
+        <EditText
+            android:id="@+id/details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:singleLine="false"
+            android:textSize="20dp"
+            android:hint="Descriptions"
+            android:layout_below="@id/about"
+            android:inputType="text" />
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+<!--            <ImageView-->
+<!--                android:id="@+id/cimage"-->
+<!--                android:layout_width="70dp"-->
+<!--                android:layout_height="70dp"-->
+<!--                android:layout_margin="20dp"-->
+<!--                android:src="@drawable/ic_baseline_camera_24"/>-->
+
+            <ImageView
+                android:id="@+id/imagePicker"
+                android:layout_width="45dp"
+                android:layout_height="144dp"
+                android:layout_margin="20dp"
+
+                android:src="@drawable/addimage" />
+
+            <ImageView
+                android:id="@+id/gimage"
+                android:layout_width="213dp"
+                android:layout_height="142dp"
+                android:layout_margin="20dp"
+                android:src="@drawable/imageview" />
+        </LinearLayout>
+        <EditText
+            android:id="@+id/date_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:drawableLeft="@drawable/ic_baseline_date_range_24"
+            android:drawablePadding="10dp"
+            android:hint="Date and Time"
+            android:inputType="datetime" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/map"
+                android:src="@drawable/map"/>
+
+            <EditText
+                android:id="@+id/location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:hint="Address"
+
+                android:drawablePadding="10dp"
+                android:padding="10dp"
+                android:inputType="text" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/updatebtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:layout_weight="1"
+                android:background="@drawable/round_bg"
+                android:text="Update"
+                android:layout_margin="10dp"/>
+
+            <Button
+                android:id="@+id/cancelbtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:background="@drawable/round_bg"
+                android:text="cancel"
+                android:layout_margin="10dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
